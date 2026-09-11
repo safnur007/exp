@@ -1,0 +1,28 @@
+{
+  "target_usd": 200,
+  "confirmed_revenue_usd": 0,
+  "updated_local_date": "2026-09-12",
+  "timezone": "Asia/Dhaka",
+  "spending_budget_usd": 0,
+  "spent_usd": 0,
+  "payment_confirmation_rule": "Count only after the user explicitly confirms receipt of the correct payment.",
+  "jobs": [
+    {
+      "job_id": "JOB-001",
+      "opportunity_client": "tscircuit contributor sponsorship program",
+      "source": "https://github.com/tscircuit/contribution-tracker/issues/284",
+      "task": "Evaluate and scope a table of time to first PR review",
+      "expected_payment": null,
+      "currency": "USD",
+      "payment_method": "UNCONFIRMED",
+      "status": "EVALUATING",
+      "work_started": null,
+      "work_completed": null,
+      "submission_status": "INQUIRY DRAFTED; NOT SENT",
+      "payment_status": "NO AGREED PAYMENT",
+      "confirmed_revenue": 0,
+      "notes": "Monthly sponsorship is conditional; enrollment, payout route, scope and competing PRs need verification. No fixed bounty assumed."
+    }
+  ],
+  "confirmed_payments": []
+}
