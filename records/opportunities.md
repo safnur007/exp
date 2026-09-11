@@ -23,4 +23,10 @@ All amounts below are advertised or conditional, not agreed fees or received rev
 
 ## Next action
 
-Resolve contributor eligibility and payment route for the scoped tscircuit lead before substantial implementation. In parallel, continue looking for explicit cash-funded, unassigned work that can be tested on Windows without purchases. Do not duplicate completed submissions merely to increase activity.
+The initial ranking above is superseded for tscircuit #284: a follow-up primary-source search found [open PR #335](https://github.com/tscircuit/contribution-tracker/pull/335), explicitly fixing #284. JOB-001 is now ABANDONED and its unsent inquiry is withdrawn. Do not submit another implementation of this issue.
+
+An alternative is [Expensify's paid contribution program](https://github.com/Expensify/App/blob/main/contributingGuides/CONTRIBUTING.md). Its current guide requires a fully verified Upwork profile before applying, an accepted proposal before opening a PR, and testing across the affected supported platforms. Payments follow deployment and a minimum seven-day regression period. This is a conditional lead, not a selected job: no Upwork profile, verification, zero-cost application route, or testing access has been established. No registration, application, contract, or platform charge was initiated.
+
+The prior turn made progress by creating records. This continuation made progress by discovering a competing implementation and withdrawing an unsuitable lead. No job, process, or payment is currently in a verified wait state. Outreach permission and the real payment link are still pending; elapsed time does not grant either.
+
+Continue looking for explicit cash-funded, unassigned work that can be tested with available resources. Do not duplicate completed submissions merely to increase activity.

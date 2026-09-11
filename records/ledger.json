@@ -15,13 +15,13 @@
       "expected_payment": null,
       "currency": "USD",
       "payment_method": "UNCONFIRMED",
-      "status": "EVALUATING",
+      "status": "ABANDONED",
       "work_started": null,
       "work_completed": null,
-      "submission_status": "INQUIRY DRAFTED; NOT SENT",
+      "submission_status": "DRAFT WITHDRAWN; NOT SENT",
       "payment_status": "NO AGREED PAYMENT",
       "confirmed_revenue": 0,
-      "notes": "Monthly sponsorship is conditional; enrollment, payout route, scope and competing PRs need verification. No fixed bounty assumed."
+      "notes": "Duplicate-work check found open implementation PR #335 explicitly fixing #284. Withdrawn before implementation or outreach. Sponsorship and payout eligibility remain unconfirmed."
     }
   ],
   "confirmed_payments": []

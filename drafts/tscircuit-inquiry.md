@@ -1,4 +1,6 @@
-# Draft only — not sent
+# Withdrawn draft — do not send
+
+The follow-up duplicate check found an existing implementation at https://github.com/tscircuit/contribution-tracker/pull/335 (open, explicitly fixes #284). This proposed task is no longer selected. The text below is retained only as history. No inquiry was sent.
 
 Destination: https://github.com/tscircuit/contribution-tracker/issues/284
 
