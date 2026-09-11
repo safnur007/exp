@@ -81,3 +81,9 @@ The user explicitly authorized searching for one more job while retaining Omi an
 - Reqrefusion/FreeCAD-Documentation-Project #331: potential documentation lead, but amount and payment method unconfirmed and several scoped proposals already pending. Not a secured job; no outreach sent.
 
 Keep the existing two active records unchanged. Confirmed revenue remains $0/$200. A bounty label alone does not establish funding or payment eligibility.
+
+## Additional opportunity identified: Frantic #33
+
+Live board and bounty page show $20 funded, one open slot, and no active claim. The scope is Sourcey-generated documentation for a maintained permissively licensed third-party library, pinned source, 20+ real APIs/concepts, evidence and runx receipt. Hosting must be a credible durable project home; personal demos and freshly created hosting organizations have been rejected. Estimated implementation effort 4-8 hours plus external hosting adoption; acceptance and payout remain uncertain.
+
+Attempted one targeted inquiry on auscaster/frantic-board #53 asking whether Payoneer is supported and how current identity eligibility applies before claiming. GitHub returned 403 Resource not accessible by integration; the message was NOT SENT. Official OpenAPI lists x402 and optional Stripe Connect. No registration, financial setup, claim, deliverable or award occurred. JOB-004 is EVALUATING, not a pending inquiry or secured job. The user's one-more-job instruction authorizes at most three opportunities; currently only Omi and tscircuit have active pending inquiries. Preserve Omi and tscircuit. Tarsnap stays inactive.
