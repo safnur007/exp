@@ -53,3 +53,11 @@ Sent two targeted messages:
 Omi scope estimate: 2–4 hours, low/medium difficulty, high technical feasibility for the offline scope on the current Windows host. Acceptance and payment probability remain unknown. Upfront cost $0. The current examples index lists a Bash script and no PowerShell script; exact-filename issue/PR search returned no `shell_examples.ps1` match. Broader related work may exist; recheck before implementation. The proposed Bengali guide was skipped because #13480 already covers it.
 
 Next: inspect replies on these specific threads on a later work pass, without repeated bumps. Start substantial implementation only after the relevant paid scope and payment route are approved. Neither inquiry is an invoice or confirmed receivable; both are pending external responses, not a running process.
+
+## Current policy: two opportunities and two-hour checks
+
+This supersedes previous search/blocked instructions. JOB-002 (tscircuit) and JOB-003 (Omi) are WAITING_FOR_REPLY. Keep at most two active/pending opportunities. Check incoming replies every two hours and process actionable responses autonomously. Do not resend either inquiry or send periodic bumps. If unanswered, wait another two hours; the revenue goal is neither blocked nor completed by silence. Search for one replacement only if one opportunity becomes invalid or a reasonable period without response makes it no longer viable, considering project activity rather than a single two-hour interval.
+
+Before this policy change, one eligibility-only email was sent to the official Tarsnap contact, asking about AI contributions and cash payout options. It is INACTIVE under the two-opportunity limit, with no agreed work or fee; do not send duplicate outreach or pursue it while both active slots remain occupied. No implementation or payment claim was made.
+
+Confirmed revenue remains $0/$200 and spending $0. Only manual user confirmation can change confirmed revenue. The private Payoneer link remains outside the public repository.

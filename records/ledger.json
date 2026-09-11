@@ -34,7 +34,7 @@
       "expected_payment": null,
       "currency": "USD",
       "payment_method": "Payoneer requested; eligibility unconfirmed",
-      "status": "EVALUATING",
+      "status": "WAITING_FOR_REPLY",
       "work_started": null,
       "work_completed": null,
       "submission_status": "ELIGIBILITY INQUIRY SENT",
@@ -51,7 +51,7 @@
       "expected_payment": null,
       "currency": "USD",
       "payment_method": "Payoneer alternative requested; documented PayPal route not established",
-      "status": "SUBMITTED",
+      "status": "WAITING_FOR_REPLY",
       "work_started": null,
       "work_completed": null,
       "submission_status": "SCOPE AND PRICE PROPOSAL SENT; NO DELIVERABLE SUBMITTED",
@@ -60,5 +60,16 @@
       "notes": "Proposed $25 after acceptance and merge. Await explicit scope, reward, workflow and payout approval. No promise of payment inferred from an open issue."
     }
   ],
-  "confirmed_payments": []
+  "confirmed_payments": [],
+  "waiting_policy": {
+    "max_active_opportunities": 2,
+    "check_interval_hours": 2,
+    "active_job_ids": [
+      "JOB-002",
+      "JOB-003"
+    ],
+    "no_duplicate_inquiries": true,
+    "search_only_when_slot_invalid_or_unreasonably_stale": true,
+    "no_reply_does_not_block_goal": true
+  }
 }
