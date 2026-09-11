@@ -67,3 +67,17 @@ Confirmed revenue remains $0/$200 and spending $0. Only manual user confirmation
 Issue #13513 remains open. Four comments consist of two duplicate proposals by OgK1lua, an intent-to-work comment by juliofarah, and amasen02 linking their open [PR #13514](https://github.com/BasedHardware/omi/pull/13514). The PR covers the proposed PowerShell scope. Its author reports local tests, which we have not independently verified. None of the issue comments grants scope, reward, assignment or payment eligibility approval.
 
 Posted one clarification because commenters appear to interpret our funding request as a funded bounty offer: we do not fund this bounty, no approval exists in the thread, and we will avoid duplicating #13514. Keep JOB-003 WAITING_FOR_REPLY pending a maintainer decision; competition alone is not proof of rejection or unavailability. No new lead search, implementation, payment obligation or revenue claim was made.
+
+## One additional opportunity search — user authorized 2026-09-12
+
+The user explicitly authorized searching for one more job while retaining Omi and tscircuit. This pass did not secure or contact a third opportunity. No spending or new submissions occurred.
+
+- hledger #2648: explicit prohibition on AI-generated PRs from first-time contributors; unsuitable for this workflow.
+- outerbase/starbasedb #71: Rewarded label and Algora award of $250 already recorded; do not treat the open issue as a fresh funded bounty.
+- rc0/mairix #29: cancelled then ambiguous funding, with merged UTF-8 work and further competing implementations; not selected.
+- kendraio/kendraio-app #184: maintainer says the five-year-old bounty is very unlikely to pay and requires a Zoom call; not selected.
+- warpspeed-bounties #4: many existing implementations and unresolved current availability/source-access questions; not selected.
+- xevrion-v2/agent-playground #7 and tine1117/oss-hunter-livefire #1: numerous existing fixes; do not duplicate.
+- Reqrefusion/FreeCAD-Documentation-Project #331: potential documentation lead, but amount and payment method unconfirmed and several scoped proposals already pending. Not a secured job; no outreach sent.
+
+Keep the existing two active records unchanged. Confirmed revenue remains $0/$200. A bounty label alone does not establish funding or payment eligibility.
