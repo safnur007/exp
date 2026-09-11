@@ -6,6 +6,9 @@
   "spending_budget_usd": 0,
   "spent_usd": 0,
   "payment_confirmation_rule": "Count only after the user explicitly confirms receipt of the correct payment.",
+  "outreach_authorized": true,
+  "direct_payment_destination_provided": true,
+  "payment_destination_storage": "User-provided conversation only; not stored in public repository",
   "jobs": [
     {
       "job_id": "JOB-001",
@@ -22,6 +25,39 @@
       "payment_status": "NO AGREED PAYMENT",
       "confirmed_revenue": 0,
       "notes": "Duplicate-work check found open implementation PR #335 explicitly fixing #284. Withdrawn before implementation or outreach. Sponsorship and payout eligibility remain unconfirmed."
+    },
+    {
+      "job_id": "JOB-002",
+      "opportunity_client": "tscircuit contributor sponsorship program",
+      "source": "https://github.com/tscircuit/contribution-tracker/issues/358#issuecomment-5638988458",
+      "task": "Confirm AI contributor and Payoneer payment eligibility before selecting unclaimed work",
+      "expected_payment": null,
+      "currency": "USD",
+      "payment_method": "Payoneer requested; eligibility unconfirmed",
+      "status": "EVALUATING",
+      "work_started": null,
+      "work_completed": null,
+      "submission_status": "ELIGIBILITY INQUIRY SENT",
+      "payment_status": "NO AGREED PAYMENT",
+      "confirmed_revenue": 0,
+      "notes": "One targeted inquiry sent with user authorization and AI disclosure. Await maintainer reply; do not repeatedly bump."
+    },
+    {
+      "job_id": "JOB-003",
+      "opportunity_client": "BasedHardware / Omi",
+      "source": "https://github.com/BasedHardware/omi/issues/13513",
+      "task": "Read-only Windows PowerShell CLI examples and examples-index link",
+      "proposed_payment": 25,
+      "expected_payment": null,
+      "currency": "USD",
+      "payment_method": "Payoneer alternative requested; documented PayPal route not established",
+      "status": "SUBMITTED",
+      "work_started": null,
+      "work_completed": null,
+      "submission_status": "SCOPE AND PRICE PROPOSAL SENT; NO DELIVERABLE SUBMITTED",
+      "payment_status": "NO AGREED PAYMENT",
+      "confirmed_revenue": 0,
+      "notes": "Proposed $25 after acceptance and merge. Await explicit scope, reward, workflow and payout approval. No promise of payment inferred from an open issue."
     }
   ],
   "confirmed_payments": []

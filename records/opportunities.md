@@ -1,6 +1,6 @@
 # Opportunity assessment — 2026-09-12
 
-All amounts below are advertised or conditional, not agreed fees or received revenue. Estimates are planning judgments. No purchases or external messages were made.
+All amounts below are advertised or conditional, not agreed fees or received revenue. Estimates are planning judgments. This initial assessment predates the authorized outreach recorded at the end of this file. No purchases were made.
 
 | Priority | Opportunity | Payout and timing | Effort / difficulty | Completion / payment confidence | Competition and intervention | Decision |
 |---|---|---|---|---|---|---|
@@ -40,3 +40,16 @@ The small banner-removal issue [#99593](https://github.com/Expensify/App/issues/
 The user has been asked whether a verified Upwork profile exists. No answer or payment link has been received in the conversation as of this audit. No client communication authorization beyond the original drafting/payment-link instructions has arrived. The original tscircuit draft remains withdrawn.
 
 The same missing outreach authorization and unestablished payment route have persisted across the initial goal turn and two continuations. No live submitted job, running implementation, accepted contract, or expected payment exists to poll. Resume revenue-seeking contact after user authorization and a usable payment route are supplied; do not simulate progress by repeatedly searching the same exhausted leads or manufacturing unpaid deliverables.
+
+## Resumed with explicit authorization — 2026-09-12
+
+The user supplied the payment destination privately and explicitly authorized targeted legitimate paid-work proposals and payment-eligibility inquiries. This supersedes the earlier missing-authorization/payment-link blocker. Keep the destination out of this repository; do not access Payoneer. Platform eligibility remains a separate question. Count only user-confirmed receipts.
+
+Sent two targeted messages:
+
+1. [tscircuit eligibility inquiry](https://github.com/tscircuit/contribution-tracker/issues/358#issuecomment-5638988458): asks whether AI-performed work without separate human code review qualifies and whether Payoneer is supported. No task assignment requested.
+2. [Omi PowerShell examples proposal](https://github.com/BasedHardware/omi/issues/13513): proposes $25 after acceptance and merge for a selectable read-only PowerShell example script, native JSON processing, exit-status handling, offline regression tests and an index link. AI workflow and Payoneer eligibility explicitly need confirmation. The posted issue was returned successfully with its full body and source URL.
+
+Omi scope estimate: 2–4 hours, low/medium difficulty, high technical feasibility for the offline scope on the current Windows host. Acceptance and payment probability remain unknown. Upfront cost $0. The current examples index lists a Bash script and no PowerShell script; exact-filename issue/PR search returned no `shell_examples.ps1` match. Broader related work may exist; recheck before implementation. The proposed Bengali guide was skipped because #13480 already covers it.
+
+Next: inspect replies on these specific threads on a later work pass, without repeated bumps. Start substantial implementation only after the relevant paid scope and payment route are approved. Neither inquiry is an invoice or confirmed receivable; both are pending external responses, not a running process.
