@@ -57,7 +57,8 @@
       "submission_status": "SCOPE AND PRICE PROPOSAL SENT; NO DELIVERABLE SUBMITTED",
       "payment_status": "NO AGREED PAYMENT",
       "confirmed_revenue": 0,
-      "notes": "Proposed $25 after acceptance and merge. Await explicit scope, reward, workflow and payout approval. No promise of payment inferred from an open issue."
+      "notes": "Four comments inspected on 2026-09-12: contributor proposals and competing open PR #13514 by amasen02, but no scope, reward, assignment or payout approval. One clarification posted that our issue requests funding and does not offer a bounty. Remains WAITING_FOR_REPLY pending maintainer decision; do not duplicate PR #13514.",
+      "competing_pr": "https://github.com/BasedHardware/omi/pull/13514"
     }
   ],
   "confirmed_payments": [],

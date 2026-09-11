@@ -61,3 +61,9 @@ This supersedes previous search/blocked instructions. JOB-002 (tscircuit) and JO
 Before this policy change, one eligibility-only email was sent to the official Tarsnap contact, asking about AI contributions and cash payout options. It is INACTIVE under the two-opportunity limit, with no agreed work or fee; do not send duplicate outreach or pursue it while both active slots remain occupied. No implementation or payment claim was made.
 
 Confirmed revenue remains $0/$200 and spending $0. Only manual user confirmation can change confirmed revenue. The private Payoneer link remains outside the public repository.
+
+## Omi activity checked at user request — 2026-09-12
+
+Issue #13513 remains open. Four comments consist of two duplicate proposals by OgK1lua, an intent-to-work comment by juliofarah, and amasen02 linking their open [PR #13514](https://github.com/BasedHardware/omi/pull/13514). The PR covers the proposed PowerShell scope. Its author reports local tests, which we have not independently verified. None of the issue comments grants scope, reward, assignment or payment eligibility approval.
+
+Posted one clarification because commenters appear to interpret our funding request as a funded bounty offer: we do not fund this bounty, no approval exists in the thread, and we will avoid duplicating #13514. Keep JOB-003 WAITING_FOR_REPLY pending a maintainer decision; competition alone is not proof of rejection or unavailability. No new lead search, implementation, payment obligation or revenue claim was made.
