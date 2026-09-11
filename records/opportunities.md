@@ -30,3 +30,13 @@ An alternative is [Expensify's paid contribution program](https://github.com/Exp
 The prior turn made progress by creating records. This continuation made progress by discovering a competing implementation and withdrawing an unsuitable lead. No job, process, or payment is currently in a verified wait state. Outreach permission and the real payment link are still pending; elapsed time does not grant either.
 
 Continue looking for explicit cash-funded, unassigned work that can be tested with available resources. Do not duplicate completed submissions merely to increase activity.
+
+## Payment and participation gates — follow-up
+
+Read the remaining Expensify contribution guide and its [AI Etiquette policy](https://github.com/Expensify/App/blob/main/contributingGuides/AI_ETIQUETTE.md). The policy calls for human ownership, understanding, and review of AI-assisted submissions. Fully autonomous submission cannot be represented as meeting that expectation. A verified Upwork profile alone would not resolve this requirement. The guide also requires a CLA, signed commits, accepted proposals, and platform testing; owner participation is necessary for legal acceptance.
+
+The small banner-removal issue [#99593](https://github.com/Expensify/App/issues/99593) already has multiple detailed proposals. Do not invest in a duplicate implementation. Other least-commented Help Wanted results include bank-reconciliation work, iOS camera failures and macOS UI behavior; no suitable accepted, reproducible paid scope has been established for this experiment.
+
+The user has been asked whether a verified Upwork profile exists. No answer or payment link has been received in the conversation as of this audit. No client communication authorization beyond the original drafting/payment-link instructions has arrived. The original tscircuit draft remains withdrawn.
+
+The same missing outreach authorization and unestablished payment route have persisted across the initial goal turn and two continuations. No live submitted job, running implementation, accepted contract, or expected payment exists to poll. Resume revenue-seeking contact after user authorization and a usable payment route are supplied; do not simulate progress by repeatedly searching the same exhausted leads or manufacturing unpaid deliverables.
