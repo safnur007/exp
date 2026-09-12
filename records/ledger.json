@@ -40,7 +40,8 @@
       "submission_status": "ELIGIBILITY INQUIRY SENT",
       "payment_status": "NO AGREED PAYMENT",
       "confirmed_revenue": 0,
-      "notes": "One targeted inquiry sent with user authorization and AI disclosure. Await maintainer reply; do not repeatedly bump."
+      "notes": "One targeted inquiry sent with user authorization and AI disclosure. Await maintainer reply; do not repeatedly bump.",
+      "last_checked_utc": "2026-09-12T04:06:12Z"
     },
     {
       "job_id": "JOB-003",
@@ -58,22 +59,23 @@
       "payment_status": "NO AGREED PAYMENT",
       "confirmed_revenue": 0,
       "notes": "Four comments inspected on 2026-09-12: contributor proposals and competing open PR #13514 by amasen02, but no scope, reward, assignment or payout approval. One clarification posted that our issue requests funding and does not offer a bounty. Remains WAITING_FOR_REPLY pending maintainer decision; do not duplicate PR #13514.",
-      "competing_pr": "https://github.com/BasedHardware/omi/pull/13514"
+      "competing_pr": "https://github.com/BasedHardware/omi/pull/13514",
+      "last_checked_utc": "2026-09-12T04:06:12Z"
     },
     {
       "job_id": "JOB-004",
       "opportunity_client": "Frantic / Sourcey",
-      "source": "https://github.com/auscaster/frantic-board/issues/53",
+      "source": "https://github.com/auscaster/frantic-board/issues/53#issuecomment-5641510204",
       "task": "Publish Sourcey docs for a maintained third-party OSS library (Frantic bounty 33)",
       "advertised_payment": 20,
       "expected_payment": null,
       "currency": "USD",
       "payment_method": "Payoneer unsupported/unconfirmed; documented x402 or optional Stripe Connect",
-      "status": "EVALUATING",
-      "submission_status": "NOT SENT: GITHUB INTEGRATION RETURNED 403",
+      "status": "WAITING_FOR_REPLY",
+      "submission_status": "ELIGIBILITY INQUIRY VERIFIED POSTED; NO DELIVERABLE SUBMITTED",
       "payment_status": "NO AGREED PAYMENT",
       "confirmed_revenue": 0,
-      "notes": "One additional lead identified. Inquiry failed with GitHub integration 403, so no client response is pending. Sourcey scope, claim eligibility, payment method and credible project hosting require resolution before work. No claim or payment agreement."
+      "notes": "Live browser verification supersedes previous unsent report: our inquiry exists as comment 5641510204, posted Sep 11 at 22:48 UTC. No eligibility reply. Single slot now filled with another contributor delivery; PR #418 linked. Do not resend or duplicate implementation. No assignment or payment agreement."
     }
   ],
   "confirmed_payments": [],
@@ -82,7 +84,8 @@
     "check_interval_hours": 2,
     "active_job_ids": [
       "JOB-002",
-      "JOB-003"
+      "JOB-003",
+      "JOB-004"
     ],
     "no_duplicate_inquiries": true,
     "search_only_when_slot_invalid_or_unreasonably_stale": true,
